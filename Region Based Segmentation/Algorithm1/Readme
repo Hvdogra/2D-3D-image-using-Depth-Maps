@@ -1,0 +1,17 @@
+Dependencies:
+
+1. System wide dependencies
+	1. Python 3.5+
+	2. opencv (along with python bindings, comes together by default)
+2. Project dependencies
+	(Recommends using python virtualenv: http://docs.python-guide.org/en/latest/dev/virtualenvs )
+	1. All dependencies are enlisted in requirements.txt
+		Install them using : pip install -r requirements.txt
+		
+EXECUTING THE CODE:
+
+-> In problem3.py, set the image path(default is provided and already set in the code).
+-> Now, run the following command
+		python problem3.py
+
+The output will be a set of images as given in the presentation.

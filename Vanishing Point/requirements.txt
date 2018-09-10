@@ -1,0 +1,4 @@
+skimage
+numpy
+pylab
+logging
